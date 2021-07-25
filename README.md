@@ -1,6 +1,6 @@
 # vite-plugin-react-md
 
-This plugins build for vite-react project and using markdown file like a react component.
+This plugin is built to use markdown as a react component for vite project.
 
 ## Usage
 
