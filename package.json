@@ -1,0 +1,35 @@
+{
+  "name": "vite-plugin-react-md",
+  "version": "1.0.0",
+  "description": "vite plugin for react markdown",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "npx tsc -p ./",
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonewu/vite-plugin-react-md.git"
+  },
+  "keywords": [
+    "vite-react-md",
+    "vite-react-markdown",
+    "vite-markdown"
+  ],
+  "author": "leone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leonewu/vite-plugin-react-md/issues"
+  },
+  "homepage": "https://github.com/Leonewu/vite-plugin-react-md#readme",
+  "devDependencies": {
+    "@types/markdown-it": "^12.0.3",
+    "@types/node": "^16.4.2",
+    "front-matter": "^4.0.2",
+    "jest": "^27.0.6",
+    "markdown-it": "^12.1.0",
+    "typescript": "^4.3.5",
+    "vite": "^2.4.3"
+  }
+}
